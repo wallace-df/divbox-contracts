@@ -8,8 +8,3 @@ ETH used to buy shares is automatically put to earn interest through Compound.Fi
 Compound protocol.
 
 Ropsten Testnet dApp: https://wallace-df.github.io/divbox/
-
-
-![DivBox](/divbox.png?raw=true "DivBox")
-
-
