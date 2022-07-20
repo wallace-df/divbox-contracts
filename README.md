@@ -1,4 +1,4 @@
-# DivBox
+# DivBox - Contracts
 Solidity contracts for DivBox.
 
 ---
